@@ -5,7 +5,7 @@ All content on the full page will be recorded, just as if you were scrolling the
 
 It can be tricky to get a good recording of animations that appear when scrolling down a page. You might not scroll smoothly and the final result could look jerky or awkward. This GIF maker will automate the process, so that you just give it a URL and it will capture a wonderfully smooth animated recording of the page scrolling.
 
-## Why use it? 
+## Why use the GIF Scroll Animation tool?
 If you want to showcase your website (or any website) or share it somewhere online, you might prefer to capture a scrolling GIF. That lets you avoid problems with browser support and you embed the GIF anywhere you like, such as on social media or in comments.
 
 The tool can also be used to visually check pages and make sure that the user experience is good. It can let you see what the page will look like to a real person scrolling down the page and highlight problems with the layout or design. The GIF maker would be especially useful if you have to do this regularly for a lot of pages, so that you can avoid manually going to each page and interacting with it in a browser.
@@ -15,7 +15,7 @@ It's very simple to use. You give the actor a URL, it visits the web page and ta
 
 There are several settings you can change if you want to change the frame rate, wait before scrolling, compress the GIF, change the viewport, and a bunch of other customizable options. Or you can just give it a URL and go with the default settings.
 
-## Tutorial
+## How can I make a scrolling GIF out of a web page?
 Here's a [quick step-by-step guide](https://blog.apify.com/how-to-make-a-scrolling-gif-of-a-web-page/) to teach you how to make an animated scrolling GIF of any web page using GIF Scroll Animation. There's also a one-second history of the GIF and some awesome reaction GIFs to blow your mind...
 
 ## Output
